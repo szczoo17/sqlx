@@ -51,7 +51,6 @@ default-features = false
 features = [
     "pkg-config",
     "vcpkg",
-    "bundled",
     "unlock_notify"
 ]
 
